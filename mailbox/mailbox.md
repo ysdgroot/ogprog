@@ -3,9 +3,9 @@ Mailboxconversie
 
 In deze oefening passen we Java-invoer- en uitvoer toe in de
 praktijk. Codevoorbeelden uit die les kan je terugvinden op Github: bij 
-[package prog2.nio](https://github.ugent.be/kcoolsae/Prog2/tree/master/src/prog2/nio)
+[package prog2.nio](https://github.com/NoctuaNivalis/cursus/tree/master/src/prog2/nio)
 en bij
-[package prog2.io](https://github.ugent.be/kcoolsae/Prog2/tree/master/src/prog2/io).
+[package prog2.io](https://github.com/NoctuaNivalis/cursus/tree/master/src/prog2/io).
 
 Een mailbox is een bestand met e-mailberichten
 waarbij elk bericht aan een precies gedefinieerd formaat voldoet.
