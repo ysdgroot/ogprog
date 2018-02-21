@@ -10,7 +10,7 @@ We verwachten dat je het document [JavaFX — GUIs in Java](http://inigem.ugent.
 Opgaven
 -------
 
-* Week 1: [Schaakpuzzel](schaakpuzzel/schaakpuzzel.md) en daarna
-[Vier op een rij](vieropeenrij/opgave.md)
+* Week 1: [Schaakpuzzel](schaakpuzzel/schaakpuzzel.md) en daarna [Vier op een rij](vieropeenrij/opgave.md)
+* Week 2: [IO Unit Tests](iounittest/opgave.md) en [Mailbox](mailbox/opgave.md)
 
 
