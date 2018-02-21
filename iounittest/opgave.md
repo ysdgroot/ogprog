@@ -36,5 +36,6 @@ Schrijf een unit test voor de nieuwe `translate`. Gebruik hiervoor
   omzetten naar een string, om te controleren of `translate` zijn werk
   correct heeft gedaan.
 
+* Een voorbeeld van een unit test vind je [hier](https://github.com/NoctuaNivalis/ogprog/blob/master/iounittest/TestWorld.java).
 
 
