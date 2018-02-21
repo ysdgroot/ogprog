@@ -7,7 +7,7 @@ illustreren we dit aan de hand van één van de voorbeelden
 uit de les.
 
 Maak een nieuw IDEA-project aan met daarin een kopie van de klasse
-[ToUpper4](https://github.com/NoctuaNivalis/ogprog/blob/master/iounittest/ToUpper.java). Je moet een unit test schrijven voor de
+[ToUpper4](https://github.com/NoctuaNivalis/ogprog/blob/master/iounittest/ToUpper4.java). Je moet een unit test schrijven voor de
 methode `translate` van deze klasse.
 
 Eerst moet je een aanpassing doen aan de klasse `ToUpper4` zodat het
