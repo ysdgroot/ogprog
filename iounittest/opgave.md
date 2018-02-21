@@ -6,11 +6,9 @@ mogelijk om hiervoor unit tests te schrijven. In deze oefening
 illustreren we dit aan de hand van één van de voorbeelden
 uit de les.
 
-Maak een nieuw IDEA-project aan met daarin een kopie van de
-klasse
-[ToUpper4](https://github.ugent.be/kcoolsae/Prog2/tree/master/src/prog2/nio/ToUpper4.java). Je
-moet een unit test schrijven voor de methode `translate` van deze
-klasse.
+Maak een nieuw IDEA-project aan met daarin een kopie van de klasse
+[ToUpper4](https://github.com/NoctuaNivalis/ogprog/blob/master/iounittest/ToUpper.java). Je moet een unit test schrijven voor de
+methode `translate` van deze klasse.
 
 Eerst moet je een aanpassing doen aan de klasse `ToUpper4` zodat het
 gemakkelijker wordt om die te testen. (Dat een programma gemakkelijk
